@@ -3,9 +3,8 @@
 iOS project realized with **Swift**, **UIkit**, **Anchorage**, **Clean Architecture** and **MVVM + Coordinators patterns**.<br>
 <h4><a href="https://user-images.githubusercontent.com/6122888/178473870-25b8bb45-85a9-4044-b445-02caddca11e2.mov" target="_blank">Download video demo</a><br></h4>
 <p float="center">
-![Simulator Screen Shot - iPhone 13 Pro Max - 2022-08-13 at 00 19 05](https://user-images.githubusercontent.com/6122888/184452017-91700efe-2ed2-4411-aabd-fe8f0d1153d4.png)
 
-
+<img src="https://user-images.githubusercontent.com/6122888/184452017-91700efe-2ed2-4411-aabd-fe8f0d1153d4.png" width="250" height="600">
 
 </p>
 
