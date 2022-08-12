@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "img_fancam_shareImage.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

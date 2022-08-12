@@ -1,0 +1,53 @@
+PODS:
+  - Anchorage (4.5.0)
+  - Hero (1.6.1)
+  - KeychainAccess (4.2.2)
+  - lottie-ios (3.3.0)
+  - Networking (1.1.2):
+    - Networking/Core (= 1.1.2)
+  - Networking/Core (1.1.2)
+  - SDWebImage (5.12.5):
+    - SDWebImage/Core (= 5.12.5)
+  - SDWebImage/Core (5.12.5)
+  - SwiftRichString (3.7.2)
+
+DEPENDENCIES:
+  - Anchorage
+  - Hero
+  - KeychainAccess
+  - lottie-ios
+  - Networking (from `https://github.com/IQUII/networking-ios`, tag `1.1.2`)
+  - SDWebImage (~> 5.0)
+  - SwiftRichString
+
+SPEC REPOS:
+  trunk:
+    - Anchorage
+    - Hero
+    - KeychainAccess
+    - lottie-ios
+    - SDWebImage
+    - SwiftRichString
+
+EXTERNAL SOURCES:
+  Networking:
+    :git: https://github.com/IQUII/networking-ios
+    :tag: 1.1.2
+
+CHECKOUT OPTIONS:
+  Networking:
+    :git: https://github.com/IQUII/networking-ios
+    :tag: 1.1.2
+
+SPEC CHECKSUMS:
+  Anchorage: 1961bc81c84aeed54ad7ffc697c50cd9de748ba6
+  Hero: 215865ba3ae41dd9bb08cd6c60a645529c6fc94b
+  KeychainAccess: c0c4f7f38f6fc7bbe58f5702e25f7bd2f65abf51
+  lottie-ios: 6ac74dcc09904798f59b18cb3075c089d76be9ae
+  Networking: 6a9e5ccc53ec8af29f47d67d19f4744274cc3e01
+  SDWebImage: 0905f1b7760fc8ac4198cae0036600d67478751e
+  SwiftRichString: d61b807db1f8834c26fee92b6dd3e1be2dc5af03
+
+PODFILE CHECKSUM: ba1335e3a4733b0101fbddc9f7b950f27f207556
+
+COCOAPODS: 1.11.3

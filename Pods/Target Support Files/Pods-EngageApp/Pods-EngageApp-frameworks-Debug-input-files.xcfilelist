@@ -1,0 +1,8 @@
+${PODS_ROOT}/Target Support Files/Pods-EngageApp/Pods-EngageApp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Anchorage/Anchorage.framework
+${BUILT_PRODUCTS_DIR}/Hero/Hero.framework
+${BUILT_PRODUCTS_DIR}/KeychainAccess/KeychainAccess.framework
+${BUILT_PRODUCTS_DIR}/Networking/Networking.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SwiftRichString/SwiftRichString.framework
+${BUILT_PRODUCTS_DIR}/lottie-ios/Lottie.framework
