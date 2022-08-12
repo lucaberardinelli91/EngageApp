@@ -155,8 +155,8 @@ public class WelcomeView: BaseView {
         shadowView.trailingAnchor /==/ backgroundImgView.trailingAnchor
 
         brandImgView.centerXAnchor /==/ centerXAnchor
-        brandImgView.heightAnchor /==/ 40
-        brandImgView.widthAnchor /==/ 40
+        brandImgView.heightAnchor /==/ 10
+        brandImgView.widthAnchor /==/ 240
 
         titleLbl.leftAnchor /==/ leftAnchor + 24
         titleLbl.heightAnchor /==/ 30

@@ -38,7 +38,7 @@ public class HomeView: BaseView {
 
     private lazy var logoImgView: UIImageView = {
         let imgView = UIImageView(frame: .zero)
-        imgView.image = AppAsset.brandLogo2.image
+        imgView.image = AppAsset.brandNameColor.image
         imgView.contentMode = .scaleAspectFill
 
         return imgView
@@ -200,8 +200,8 @@ public class HomeView: BaseView {
 
         logoImgView.topAnchor /==/ walletBtn.topAnchor
         logoImgView.centerXAnchor /==/ centerXAnchor
-        logoImgView.widthAnchor /==/ 47
-        logoImgView.heightAnchor /==/ logoImgView.widthAnchor
+        logoImgView.heightAnchor /==/ 60
+        logoImgView.widthAnchor /==/ 120
 
         profileBtn.topAnchor /==/ walletBtn.topAnchor
         profileBtn.trailingAnchor /==/ trailingAnchor - 20
