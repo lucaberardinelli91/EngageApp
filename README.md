@@ -24,7 +24,7 @@ The app is built with <a href="https://tech.olx.com/clean-architecture-and-mvvm-
 * **Data** (network manager)
 * **Core** (main container and helper/common classes)
 * **Domain** (entities models, data models, usecases and repositories)
-* **Navigation** (coordinators)
 * **Scenes** (viewmodels, viewcontrollers, views and assemblers)
+* **Navigation** (coordinators)
 
 [product-screenshot]: images/devices.jpeg
