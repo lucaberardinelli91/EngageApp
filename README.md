@@ -1,6 +1,6 @@
 <h1>About the app</h1>
 
-iOS project realized with **Swift**, **UIkit**, **Anchorage**, **Clean Architecture** and **MVVM + Coordinators patterns**.<br>
+iOS project realized with **Swift**, **UIkit**, **Anchorage**, **Clean Architecture**, **UICollectionViewDiffableDataSource** and **MVVM + Coordinators patterns**.<br>
 <h4><a href="https://user-images.githubusercontent.com/6122888/184453708-9849332b-98a6-43b6-8f45-a175a9d9cac0.mov" target="_blank">Download video demo</a><br></h4>
 <p float="center">
 
